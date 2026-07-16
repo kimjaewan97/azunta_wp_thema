@@ -17,8 +17,9 @@
 - 테마 폴더명은 `azunta_wp_thema` 입니다.
 
 ## 스크린샷
-<img width="163" height="388" alt="Bildschirmfoto 2026-07-16 um 23 02 09" src="https://github.com/user-attachments/assets/486b36ee-7a0b-4dd6-aac7-e1fab1b4f12b" />
--
-<img width="439" height="151" alt="Bildschirmfoto 2026-07-16 um 23 02 19" src="https://github.com/user-attachments/assets/4a1f439e-7c38-4471-8cad-4b8fd11a95a0" />
--
-<img width="679" height="152" alt="Bildschirmfoto 2026-07-16 um 23 02 27" src="https://github.com/user-attachments/assets/661333ec-cc70-4122-b3e8-def1999c08e7" />
+<img width="163" height="388" alt="Bildschirmfoto 2026-07-16 um 23 02 09" src="https://github.com/user-attachments/assets/48d938c0-e5ef-4fd5-b441-de8a209e59ec" />
+<br></br>
+<img width="439" height="151" alt="Bildschirmfoto 2026-07-16 um 23 02 19" src="https://github.com/user-attachments/assets/27904ba4-de02-4bf6-b191-7439e19d31b2" />
+<br></br>
+<img width="679" height="152" alt="Bildschirmfoto 2026-07-16 um 23 02 27" src="https://github.com/user-attachments/assets/28ad380c-e92d-4fbf-92a4-3ce4c9b15238" />
+
