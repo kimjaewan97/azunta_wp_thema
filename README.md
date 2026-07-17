@@ -16,10 +16,16 @@
 - 다운로드 후 압축을 풀지 말고 **그대로 업로드**하세요.
 - 테마 폴더명은 `azunta_wp_thema` 입니다.
 
-## 스크린샷
-<img width="163" height="388" alt="Bildschirmfoto 2026-07-16 um 23 02 09" src="https://github.com/user-attachments/assets/48d938c0-e5ef-4fd5-b441-de8a209e59ec" />
-<br></br>
-<img width="439" height="151" alt="Bildschirmfoto 2026-07-16 um 23 02 19" src="https://github.com/user-attachments/assets/27904ba4-de02-4bf6-b191-7439e19d31b2" />
-<br></br>
-<img width="679" height="152" alt="Bildschirmfoto 2026-07-16 um 23 02 27" src="https://github.com/user-attachments/assets/28ad380c-e92d-4fbf-92a4-3ce4c9b15238" />
+## 테마 적용 방법
+아래 링크 글을 참고해 주세요.
+https://azuntablog.co.kr/%ec%88%98%ec%9d%b5-%ea%b7%b9%eb%8c%80%ed%99%94%ed%98%95-%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-%ed%85%8c%eb%a7%88-%eb%ac%b4%eb%a3%8c-%eb%b0%b0%ed%8f%ac-generatepress-%ea%b8%b0%eb%b0%98/
 
+## 애드센스 광고 수익 최적화 배치 방법
+아래 링크 글을 참고해 주세요.
+https://azuntablog.co.kr/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-%eb%ac%b4%eb%a3%8c-%ea%b3%b5%ec%9c%a0-%ed%85%8c%eb%a7%88-%ec%95%a0%eb%93%9c%ec%84%bc%ec%8a%a4-%ea%b4%91%ea%b3%a0-%eb%b0%b0%ec%b9%98-%ec%b5%9c%ec%a0%81/
+
+## 버튼
+글 사이에 버튼을 만들고 싶으면 아래 코드를 사용해 주세요.
+'링크' 에 이동할 링크, '내용' 에 버튼에 들어갈 내용을 넣어주세요.
+
+<center><a href="링크" class="ao-cta-btn" style="display:inline-block;background-color:#ff6b00;color:#1a0a00;font-weight:700;font-size:1.05rem;line-height:1.3;text-align:center;text-decoration:none;padding:14px 28px;border-radius:10px;border:none;box-shadow:0 4px 14px rgba(255,107,0,0.35);cursor:pointer;">내용</a></center>
