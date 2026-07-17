@@ -7,6 +7,7 @@
 1. **이 페이지에서 ZIP 다운로드**
    - azunta_wp_thema.zip 클릭
   <img width="172" height="71" alt="Bildschirmfoto 2026-07-17 um 09 48 37" src="https://github.com/user-attachments/assets/7239615f-9f6e-4a63-93bd-eab334c0db57" />
+  <br></br>
   위 이미지에서 다운로드 버튼을 눌러서 다운로드 해주세요.
 
 2. 테마 적용 방법
