@@ -13,7 +13,6 @@
 
 ### 2. **테마 적용 방법**
 아래 링크 글을 참고해 주세요.
-<br></br>
 <center><a href="https://azuntablog.co.kr/%ec%88%98%ec%9d%b5-%ea%b7%b9%eb%8c%80%ed%99%94%ed%98%95-%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-%ed%85%8c%eb%a7%88-%eb%ac%b4%eb%a3%8c-%eb%b0%b0%ed%8f%ac-generatepress-%ea%b8%b0%eb%b0%98/" class="ao-cta-btn" style="display:inline-block;background-color:#ff6b00;color:#1a0a00;font-weight:700;font-size:1.05rem;line-height:1.3;text-align:center;text-decoration:none;padding:14px 28px;border-radius:10px;border:none;box-shadow:0 4px 14px rgba(255,107,0,0.35);cursor:pointer;">테마 적용 방법 보기</a></center>
 <br></br>
 <br></br>
