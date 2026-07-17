@@ -29,7 +29,9 @@
 <center><a href="https://azuntablog.co.kr/%ec%9b%8c%eb%93%9c%ed%94%84%eb%a0%88%ec%8a%a4-%eb%ac%b4%eb%a3%8c-%ea%b3%b5%ec%9c%a0-%ed%85%8c%eb%a7%88-%ec%95%a0%eb%93%9c%ec%84%bc%ec%8a%a4-%ea%b4%91%ea%b3%a0-%eb%b0%b0%ec%b9%98-%ec%b5%9c%ec%a0%81/" class="ao-cta-btn" style="display:inline-block;background-color:#ff6b00;color:#1a0a00;font-weight:700;font-size:1.05rem;line-height:1.3;text-align:center;text-decoration:none;padding:14px 28px;border-radius:10px;border:none;box-shadow:0 4px 14px rgba(255,107,0,0.35);cursor:pointer;">광고 배치 방법 보기</a></center>
 <br></br>
 <br></br>
+
 ## 버튼
+<br></br>
 글 사이에 버튼을 만들고 싶으면 아래 코드를 사용해 주세요.
 '링크' 에 이동할 링크, '내용' 에 버튼에 들어갈 내용을 넣어주세요.
 
